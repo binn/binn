@@ -1,12 +1,18 @@
-**binn/binn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi! i'm bin
 
-Here are some ideas to get you started:
+most of my info will be available on my [website](https://bin.moe).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+a lot of my interesting work is behind private repositories, i like to tamper with:
+
+- HTTP, REST, APIs, the like
+- reverse engineering
+- security
+- .NET, C#, all versions
+- some minor React, typescript, javascript, and node stuff
+- IoT and embedded systems
+- 3D printing
+- modding games
+- minecraft.
+- and virtual reality tech 
+
+thanks for stopping by!
